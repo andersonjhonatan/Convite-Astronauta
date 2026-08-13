@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Missão Espacial do Miguel",
+    "slug": "missao-miguel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "missaomiguel",
+    "userInterfaceStyle": "dark",
+    "web": {
+      "output": "static",
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
